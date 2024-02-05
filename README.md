@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="./color.css" />
+    <style>
+      body {
+        background-color: yellow;
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+      }
+    </style>
   </head>
   <body>
     <h1>Hello this is My Simple Webpage</h1>
