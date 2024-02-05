@@ -47,5 +47,6 @@
       allowfullscreen
     ></iframe>
     <em>vãi lone luôn đầu cắt moi</em>
+    <p><b>Lưu ý: E mãi là FAN J97 (Đom Đóm)</b></p>
   </body>
 </html>
