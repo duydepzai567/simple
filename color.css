@@ -1,9 +1,12 @@
 h1 {
-  color: red;
+  color: black;
 }
 h2 {
-  color: blue;
+  color: black;
 }
 h3 {
+  color: black;
+}
+p {
   color: black;
 }
