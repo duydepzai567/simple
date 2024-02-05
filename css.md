@@ -2,8 +2,8 @@ h1 {
   color: red;
 }
 h2 {
-  color: yellowgreen;
+  color: blue;
 }
 h3 {
-  color: blueviolet;
+  color: black;
 }
